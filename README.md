@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Mehayla
-- 👀 I’m interested in many things, but I have a particular fondness for Books, Film making, Music, and of course coding.
+- 👀 I’m interested in many things, but I have a particular fondness for books, film making, music, and coding.
 - 🌱 I’m currently expanding my knowedlge Python and SQL from my background in HTML and CSS. 
 - ✨ My favorite fact is that we all were made from star dust and that everything in this world is remade.
 - 📫 You can best reach me at my email MehaylaC@gmail.com
