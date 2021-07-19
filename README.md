@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Mehayla
 - 👀 I’m interested in many things, but I have a particular fondness for books, film making, music, and coding.
-- 🌱 I’m currently expanding my knowedlge Python and SQL from my background in HTML and CSS. 
+- 🌱 I’m currently expanding my knowedlge and learning Python with Hackbright!
 - ✨ My favorite fact is that we all were made from star dust and that everything in this world is remade.
 - 📫 You can best reach me at my email MehaylaC@gmail.com
 
