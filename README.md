@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Mehayla
 - 🌱 I’m currently expanding my knowedlge and learning with Hackbright!
-- 👀 I have a girlscout patch for Python, HTML, CSS, JavaScript, and more. . . 
+- 👀 I have a girlscout patch for Python, HTML, CSS, JavaScript, SQL, and more. . . 
 - ✨ My favorite fact is that we all were made from star dust and that all matter is just remade into something new.
 - 📫 You can best reach me at my email MehaylaC@gmail.com
 
