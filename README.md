@@ -4,8 +4,7 @@
 - ✨ My favorite fact is that we all were made from star dust and that all matter is just remade into something new.
 - 📫 You can best reach me at my email MehaylaC@gmail.com
 
-![snakie gif]
-(https://github.com/Mehayla/Mehayla/blob/output/github-contribution-grid-snake.gif)
+![snakie gif](https://github.com/Mehayla/Mehayla/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 Mehayla/Mehayla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
