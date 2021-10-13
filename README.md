@@ -7,8 +7,8 @@
   
 ![snakie gif](https://github.com/Mehayla/Mehayla/blob/output/github-contribution-grid-snake.gif)
 
-![Mehayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehayla&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehayla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Mehayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehayla&show_icons=true&hide=Total PRs&theme=greywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehayla&layout=compact&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
