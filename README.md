@@ -10,7 +10,7 @@
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehayla&title_color=000000&text_color=A245B4&hide=contribs" alt="Mehayla's GitHub stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehayla&hide=Jupyter%20Notebook&langs_count=6&card_width=275&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehayla&hide=Jupyter%20Notebook&langs_count=6&card_width=250&layout=compact"/>
 </div>
      
 
