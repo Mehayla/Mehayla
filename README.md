@@ -1,7 +1,7 @@
 <h1> Hello, I’m Mehayla <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-- 🌱 I just graduated from Hackbright! I am continuing to expand my knowedlge and strengthen my skills!
-- 👀 I have a girlscout patch for Python, HTML, CSS, JavaScript, SQL, and more. . . 
+- 🌱 I am Hackbright graduate! I am continuing to expand my knowedlge and strengthen my skills!
+- 👀 I have a girlscout patch for Python, HTML, CSS, JavaScript, SQL, and working on more. . . 
 - ✨ My favorite fact is that we all were made from star dust and that all matter is just remade into something new.
 - 📫 You can best reach me here: <a href = "mailto:MehaylaC@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/mehayla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
