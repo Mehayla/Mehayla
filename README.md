@@ -3,7 +3,10 @@
 - 🌱 I am Hackbright graduate! I am continuing to expand my knowedlge and strengthen my skills!
 - 👀 I have a girlscout patch for Python, HTML, CSS, JavaScript, SQL, and working on more. . . 
 - ✨ My favorite fact is that we all were made from star dust and that all matter is just remade into something new.
-- 📫 You can best reach me here: <a href = "mailto:MehaylaC@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/mehayla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 📫 You can best reach me here: 
+<a href = "mailto:MehaylaC@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/mehayla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<p> Also this is my pet snake Steve. Say hi, he is very friendly </p>
   
   
 ![snakie gif](https://github.com/Mehayla/Mehayla/blob/output/github-contribution-grid-snake.gif)
