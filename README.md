@@ -6,10 +6,10 @@
 - 📫 You can best reach me here: <br>
 <a href = "mailto:MehaylaC@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/mehayla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<p> Also this is my pet snake Steve. Say hi, he is very friendly </p>
-  
   
 ![snakie gif](https://github.com/Mehayla/Mehayla/blob/output/github-contribution-grid-snake.gif)
+<p> Also this is my pet snake Steve^ Say hi, he is very friendly </p>
+
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehayla&title_color=000000&text_color=A245B4&hide=contribs" alt="Mehayla's GitHub stats"/>
