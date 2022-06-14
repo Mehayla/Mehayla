@@ -1,4 +1,4 @@
-<h1> Hello, I’m Mehayla <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> Hello, I’m Mehayla <img src="https://media.giphy.com/media/XQLSfryYeOGiq0JqmN/giphy.gif" width="30px"> </h1>
 
 - 🌱 I am Hackbright graduate! I am continuing to expand my knowedlge and strengthen my skills!
 - 👀 I have a girlscout patch for Python, HTML, CSS, JavaScript, SQL, and working on more. . . 
