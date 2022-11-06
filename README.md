@@ -1,6 +1,6 @@
 <h1> Hello, I’m Mehayla <img src="https://media.giphy.com/media/lrgLFqCLUcRSTXsLx1/giphy.gif" width="5px"> </h1>
 
-- 🌱 I am Hackbright graduate! I am continuing to expand my knowedlge and strengthen my skills!
+- 🌱 I am Hackbright graduate! I am continuing to expand my knoweldge and strengthen my skills!
 - 👀 I have a girlscout patch for Python, HTML, CSS, JavaScript, SQL, and working on more. . . 
 - ✨ My favorite fact is that we all were made from star dust and that all matter is just remade into something new.
 - 📫 You can best reach me here: <br>
